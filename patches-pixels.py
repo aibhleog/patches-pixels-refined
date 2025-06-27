@@ -1,4 +1,9 @@
 '''
+
+THIS IS THE ORIGINAL SCRIPT COPIED FROM 
+https://github.com/aibhleog/patches-pixels/
+
+--------------
 This is a quick & dirty way to pick most of the pixels out for given matplotlib patch that you overlay on a galaxy 2D image.
 
 
